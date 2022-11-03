@@ -1,0 +1,11 @@
+D:\Bartosz Podgórski\Clicker\Clicker\bin\Debug\Clicker.exe.config
+D:\Bartosz Podgórski\Clicker\Clicker\bin\Debug\Clicker.exe
+D:\Bartosz Podgórski\Clicker\Clicker\bin\Debug\Clicker.pdb
+D:\Bartosz Podgórski\Clicker\Clicker\obj\Debug\Clicker.csproj.AssemblyReference.cache
+D:\Bartosz Podgórski\Clicker\Clicker\obj\Debug\Clicker.csproj.SuggestedBindingRedirects.cache
+D:\Bartosz Podgórski\Clicker\Clicker\obj\Debug\Clicker.Form1.resources
+D:\Bartosz Podgórski\Clicker\Clicker\obj\Debug\Clicker.Properties.Resources.resources
+D:\Bartosz Podgórski\Clicker\Clicker\obj\Debug\Clicker.csproj.GenerateResource.cache
+D:\Bartosz Podgórski\Clicker\Clicker\obj\Debug\Clicker.csproj.CoreCompileInputs.cache
+D:\Bartosz Podgórski\Clicker\Clicker\obj\Debug\Clicker.exe
+D:\Bartosz Podgórski\Clicker\Clicker\obj\Debug\Clicker.pdb
